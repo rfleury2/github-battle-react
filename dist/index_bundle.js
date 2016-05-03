@@ -1,0 +1,1 @@
+!function(e){function o(r){if(n[r])return n[r].exports;var t=n[r]={exports:{},id:r,loaded:!1};return e[r].call(t.exports,t,t.exports,o),t.loaded=!0,t.exports}var n={};return o.m=e,o.c=n,o.p="",o(0)}([function(e,o,n){e.exports=n(1)},function(e,o){var n=document.getElementById("app");n.innerHTML="Hello!",console.log("hello")}]);
